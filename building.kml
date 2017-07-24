@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>building.shp</name>
+	<Schema name="building" id="S_building_IS">
+		<SimpleField type="int" name="Id"><displayName>&lt;b&gt;Id&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="name"><displayName>&lt;b&gt;name&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="falseColor">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Id</b></td><td>$[building/Id]</td></tr>
+  <tr><td><b>name</b></td><td>$[building/name]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Folder id="layer 0">
+		<name>building</name>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.13375108384889,7.30113774610579,0 5.133758047805221,7.301088998411709,0 5.133639660548224,7.30088007972296,0 5.133785903630268,7.300782584335037,0 5.133876435062019,7.301012394892661,0 5.133932146712432,7.301033286761496,0 5.134196777051394,7.301054178630371,0 5.134189813095063,7.301200421712335,0 5.133925182756061,7.301214349624838,0 5.133771975717725,7.301451124138794,0 5.133604840766686,7.301360592707042,0 5.13375108384889,7.30113774610579,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.134879244767734,7.301088998411709,0 5.134941920374279,7.301075070499206,0 5.1349071005929,7.300887043679332,0 5.134830497073613,7.300894007635703,0 5.134823533117481,7.300810440160244,0 5.135122983237821,7.300733836640956,0 5.135157803019359,7.301088998411709,0 5.134886208724026,7.301172565887169,0 5.134879244767734,7.301088998411709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.138026953010351,7.301200421712335,0 5.138291583349353,7.301242205450085,0 5.138291583349353,7.301492907876543,0 5.138033916966722,7.301492907876543,0 5.138026953010351,7.301200421712335,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.138166232136183,7.300831332029079,0 5.138514429950605,7.300866151810457,0 5.138514429950605,7.301040250717668,0 5.138166232136183,7.301061142586542,0 5.138166232136183,7.300831332029079,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.136571486146,7.300810440160244,0 5.136557558233337,7.300817404116575,0 5.13652970240825,7.300733836640956,0 5.136543630320833,7.300719908728452,0 5.136641125708916,7.300685088946914,0 5.136662017577791,7.300810440160244,0 5.136606305927378,7.300817404116575,0 5.136571486146,7.300810440160244,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.13611888484788,7.299485351964115,0 5.136104882454315,7.299474850168921,0 5.136125886044463,7.299474850168921,0 5.136125886044463,7.29947134957051,0 5.136104882454315,7.299453846578974,0 5.136290414166789,7.299278816661454,0 5.136363926732264,7.299376833415288,0 5.136367427330635,7.299376833415288,0 5.136367427330635,7.299331325636542,0 5.136416435707352,7.299331325636542,0 5.136514452461185,7.299299820251641,0 5.136531955453001,7.299289318456448,0 5.136668478788518,7.299359330423512,0 5.136780497935756,7.299369832218465,0 5.13685050990262,7.299460847775556,0 5.136433938699168,7.299803906413733,0 5.13611888484788,7.299485351964115,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.13482716405711,7.299096785547352,0 5.134820162860487,7.299026773580288,0 5.134907677819167,7.298946259818431,0 5.135009195171212,7.298841241867815,0 5.135110712523376,7.298858744859551,0 5.135117713720039,7.298907753236508,0 5.135191226285474,7.298907753236508,0 5.135212229875421,7.298960262211796,0 5.135173723293698,7.298977765203412,0 5.135145718506928,7.299145793924069,0 5.134893675425762,7.299110787940717,0 5.13482716405711,7.299096785547352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.133506563798802,7.305472896474954,0 5.133413764819621,7.305287298516432,0 5.133538686522283,7.305215914686425,0 5.134074065248755,7.304962502089158,0 5.134106187972236,7.305008901578769,0 5.134159725844811,7.305158807622267,0 5.134106187972236,7.305180222771202,0 5.133995543035423,7.305251606601408,0 5.134024394000281,7.305317339211683,0 5.133834037119822,7.305407758729996,0 5.133807863048712,7.305357790048683,0 5.133498533117962,7.305488660404156,0 5.133506563798802,7.305472896474954,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.133506563798802,7.306011844392728,0 5.133795668311052,7.306011844392728,0 5.133799237502554,7.306147473670137,0 5.133510132990304,7.306172458010574,0 5.133517271373349,7.306168888819071,0 5.133506563798802,7.306011844392728,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.135412512064495,7.304609152129746,0 5.135537433767357,7.304366447107267,0 5.135615955980408,7.304345031958173,0 5.135865799386132,7.30441641578834,0 5.135897922109614,7.304555614257131,0 5.135887214535106,7.304587736980812,0 5.135812261513517,7.304609152129746,0 5.135676632236068,7.304555614257131,0 5.13557312568234,7.304666259193864,0 5.135569556490838,7.304662690002561,0 5.135412512064495,7.304609152129746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.136054966535997,7.304491368809929,0 5.136022843812516,7.304330755192083,0 5.136004997854924,7.304223679446813,0 5.135990721088835,7.304155864808308,0 5.135972875131363,7.304095188552648,0 5.136119211983159,7.30405235825442,0 5.136279825601045,7.304063065828927,0 5.136344071048247,7.304184418340287,0 5.136344071048247,7.304459246086408,0 5.13619773419645,7.304480661235582,0 5.136054966535997,7.304487799618427,0 5.136054966535997,7.304491368809929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>0</name>
+			<styleUrl>#falseColor</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff0f0f0</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_building_IS">
+					<SimpleData name="Id">0</SimpleData>
+					<SimpleData name="name"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							5.136879449774638,7.304088050169564,0 5.13689729573207,7.304063065828927,0 5.136940126030138,7.304055927445923,0 5.136975817945322,7.30405235825442,0 5.137022217434932,7.30405235825442,0 5.137065047732961,7.303998820381765,0 5.137082893690592,7.304041650679993,0 5.137104308839686,7.304070204212012,0 5.137172123478271,7.304088050169564,0 5.137189969435823,7.304138018850717,0 5.137225661350846,7.304152295616806,0 5.137261353266069,7.30446281527799,0 5.137204246201912,7.304491368809929,0 5.137011509860385,7.304505645576018,0 5.136858034625504,7.304405708213833,0 5.136879449774638,7.304088050169564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
