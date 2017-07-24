@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>futa</name>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13360037228364,7.30131187083475 5.13366699719171,7.30138801358692 5.13383831838411,7.30124524592668 5.13373362209995,7.30111199611031 5.13373362209995,7.30112151395429 5.13360037228364,7.30131187083475</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13391446113633,7.30115006748645 5.13415240723702,7.30115958533037 5.13418096076902,7.30102633551405 5.13389542544826,7.30101681767007 5.13391446113633,7.30115006748645</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13370506856779,7.30078838941353 5.13357181875148,7.30088356785376 5.13370506856779,7.30101681767007 5.13389542544826,7.30101681767007 5.13370506856779,7.30078838941353</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13424758567726,7.30221606601697 5.13434276411749,7.30216847679691 5.13417144292504,7.30195908422837 5.13408578232878,7.30201619129252 5.13424758567726,7.30221606601697</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13415240723702,7.30167354890767 5.13405722879679,7.30166403106375 5.13406674664071,7.30191149500837 5.13417144292504,7.30195908422837 5.13415240723702,7.30167354890767</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13399060388849,7.30206378051258 5.13386687191627,7.30204474482468 5.13384783622826,7.30233979798936 5.13396205035656,7.30233979798936 5.13399060388849,7.30206378051258</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13363844365972,7.30179728088007 5.13386687191627,7.30204474482468 5.13390494329241,7.30191149500837 5.13371458641188,7.30170210243983 5.13363844365972,7.30179728088007</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.1332767655868,7.30223510170498 5.13323869421072,7.30207329835667 5.13291508751388,7.30216847679691 5.13295315888996,7.30232076230129 5.1330388194861,7.30230172661322 5.13301978379826,7.30221606601697 5.1331625514585,7.30219703032907 5.13317206930265,7.30227317308106 5.1332767655868,7.30223510170498</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF000000</color><width>0.737006</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>5.13179198191921,7.30172113812785 5.13191571389143,7.30171162028375 5.13191571389143,7.30146415633914 5.13178246407512,7.3014927098713 5.13179198191921,7.30172113812785</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
